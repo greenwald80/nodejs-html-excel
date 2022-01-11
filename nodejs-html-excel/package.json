@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-html-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "1": "node app1",
+    "2": "node app2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html2xlsx": "^0.4.2",
+    "html2xlsx-hd": "^0.4.4"
+  }
+}
